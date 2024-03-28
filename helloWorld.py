@@ -1,4 +1,8 @@
 print('Git is awesome/')
-user_input = input("Enter something: ")
-print(f"You entered: {user_input}")
+
+# Get user input
+user_response = input("Enter something: ")
+
+# Print the user input
+print(f"You entered: {user_response}")
 
